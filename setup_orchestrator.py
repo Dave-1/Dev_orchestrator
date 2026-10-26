@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Claude Code Orchestrator + Superpowers Setup Script (v3)
+Claude Code Orchestrator + Superpowers Setup Script
 Option B: Embedded Skill Inheritance
 Bundles Superpowers' TDD, Git Worktree Isolation, Brainstorming/Spec Design,
 and Systematic Debugging directly into .claude/skills/ with ZERO external dependencies.
@@ -136,7 +136,7 @@ Focus: Edge-case validation, browser verification, and issuing GO/NO-GO clearanc
 
     CLAUDE_DIR / "dashboard.py": """#!/usr/bin/env python3
 \"\"\"
-Claude Code Orchestrator Dashboard (v3 + Superpowers)
+Claude Code Orchestrator Dashboard (Superpowers)
 Running on http://localhost:8080
 \"\"\"
 import http.server
